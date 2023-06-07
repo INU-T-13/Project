@@ -1,6 +1,6 @@
 # INUCapstone-Project-Thermal-Doorlock-Prediction
 
-인천대학교 캡스톤 디자인, T17 팀의 프로젝트입니다.
+인천대학교 캡스톤 디자인, T17 팀의 프로젝트입니다
 ## 사용 기술
 * `Python` 언어로 작성되었으며, 구동은 `Jupyter Notebook` 환경에서 주로 이루어졌습니다.
 * 객체 탐지 모델은 `Pytorch` 를 기반으로 한 `YOLOv5`를 사용하였습니다.
